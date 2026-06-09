@@ -1,45 +1,76 @@
 # Snipernode
 
-Minecraft Java Developer focused on Paper / Spigot plugin development, custom systems, gameplay mechanics, and server-side tools.
+Minecraft Systems Developer
 
-I build plugins that help Minecraft servers create better gameplay without forcing players to install client mods.
+I build large-scale gameplay systems for Paper and Spigot servers.
 
-## What I Work On
+## Specialties
 
-- Paper / Spigot plugin development
-- Custom gameplay systems
-- Mob and item systems
-- Server-side mechanics
-- Developer tools for Minecraft server owners
-- Experimental all-in-one plugin frameworks
+- Battle Royale Systems
+- RPG Progression
+- Custom Items
+- Custom Mobs
+- Server Frameworks
+- Gameplay Design
+- Performance Optimization
 
 ## Featured Projects
 
+### Conquest
+Large-scale Battle Royale framework.
+
+Features:
+- Storm System
+- Supply Drops
+- Spectator Mode
+- Deployment System
+- Cosmetics
+- Dynamic World Events
+- Friends System
+
+Status: Active Commission
+
+---
+
 ### Bullseye
-A work-in-progress Minecraft plugin designed to combine features normally handled by tools like Nexo, MythicMobs, and ModelEngine into one server-owner-friendly system.
 
-**Goal:** let server owners create custom mobs, models, and gameplay content from one plugin workflow.
+All-in-one content creation framework.
 
-**Tech:** Java, Paper / Spigot
+Goal:
+Reduce plugin dependency chains by providing a unified workflow for custom content.
+
+Features:
+- Custom Items
+- Custom Mobs
+- Content Tools
+- Gameplay Extensions
 
 ---
 
 ### SkillForge
-A Java-based Minecraft plugin project focused on custom progression and skill-style systems.
 
-**Tech:** Java, Paper / Spigot
+RPG progression framework.
 
----
+Features:
+- Skill Trees
+- Progression Systems
+- Unlockable Abilities
+- Configurable Advancement Paths
 
-### SnipersCozyPlatforms
-A Java Minecraft plugin project.
+## Technologies
 
-**Tech:** Java, Paper / Spigot
+Java
+Paper
+Spigot
+Bukkit
+Git
+Gradle
+WorldEdit
+MythicMobs
 
-## Skills
+## Contact
 
-```text
-Languages: Java
-Platforms: Paper, Spigot, Bukkit
-Minecraft Dev: Plugins, custom items, mobs, server systems
-Tools: GitHub, Gradle/Maven, IntelliJ IDEA
+GitHub: github.com/Snipernode
+Discord: Snipernode
+Instagram: Snipernode
+Email: snipernode0public@gmail.com
