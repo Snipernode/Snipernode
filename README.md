@@ -71,6 +71,9 @@ MythicMobs
 ## Contact
 
 GitHub: github.com/Snipernode
+
 Discord: Snipernode
+
 Instagram: Snipernode
+
 Email: snipernode0public@gmail.com
